@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shivapal460/leetcode_problem/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Shivapal460/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Shivapal460/leetcode_problem/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/Shivapal460/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivapal460/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Shivapal460/leetcode_problem/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->

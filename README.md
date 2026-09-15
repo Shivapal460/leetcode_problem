@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shivapal460/leetcode_problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Shivapal460/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -42,5 +43,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shivapal460/leetcode_problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shivapal460/leetcode_problem/tree/master/0237-delete-node-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Shivapal460/leetcode_problem/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

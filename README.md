@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shivapal460/leetcode_problem/tree/master/0056-merge-intervals) |
+| [0152-maximum-product-subarray](https://github.com/Shivapal460/leetcode_problem/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivapal460/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Shivapal460/leetcode_problem/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Shivapal460/leetcode_problem/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->

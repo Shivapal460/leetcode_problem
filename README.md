@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shivapal460/leetcode_problem/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Shivapal460/leetcode_problem/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Shivapal460/leetcode_problem/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivapal460/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivapal460/leetcode_problem/tree/master/2104-sum-of-subarray-ranges) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shivapal460/leetcode_problem/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Shivapal460/leetcode_problem/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

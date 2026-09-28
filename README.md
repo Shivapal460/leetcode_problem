@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Shivapal460/leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivapal460/leetcode_problem/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivapal460/leetcode_problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3978-unique-middle-element](https://github.com/Shivapal460/leetcode_problem/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shivapal460/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/Shivapal460/leetcode_problem/tree/master/1512-number-of-good-pairs) |
+| [3978-unique-middle-element](https://github.com/Shivapal460/leetcode_problem/tree/master/3978-unique-middle-element) |
 ## Quickselect
 |  |
 | ------- |

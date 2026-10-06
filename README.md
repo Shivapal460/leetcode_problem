@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivapal460/leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/Shivapal460/leetcode_problem/tree/master/0735-asteroid-collision) |
 | [1512-number-of-good-pairs](https://github.com/Shivapal460/leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivapal460/leetcode_problem/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivapal460/leetcode_problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivapal460/leetcode_problem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Shivapal460/leetcode_problem/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivapal460/leetcode_problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shivapal460/leetcode_problem/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Shivapal460/leetcode_problem/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Shivapal460/leetcode_problem/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Shivapal460/leetcode_problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shivapal460/leetcode_problem/tree/master/0078-subsets) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivapal460/leetcode_problem/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Shivapal460/leetcode_problem/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Shivapal460/leetcode_problem/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Shivapal460/leetcode_problem/tree/master/0141-linked-list-cycle) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Shivapal460/leetcode_problem/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
@@ -116,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivapal460/leetcode_problem/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivapal460/leetcode_problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivapal460/leetcode_problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking

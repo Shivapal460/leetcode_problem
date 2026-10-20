@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Shivapal460/leetcode_problem/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Shivapal460/leetcode_problem/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Shivapal460/leetcode_problem/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivapal460/leetcode_problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1512-number-of-good-pairs](https://github.com/Shivapal460/leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivapal460/leetcode_problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivapal460/leetcode_problem/tree/master/2965-find-missing-and-repeated-values) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Shivapal460/leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/Shivapal460/leetcode_problem/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivapal460/leetcode_problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## String
 |  |
 | ------- |

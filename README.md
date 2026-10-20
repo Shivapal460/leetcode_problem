@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivapal460/leetcode_problem/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Shivapal460/leetcode_problem/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivapal460/leetcode_problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0633-sum-of-square-numbers](https://github.com/Shivapal460/leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Shivapal460/leetcode_problem/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Shivapal460/leetcode_problem/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Shivapal460/leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Shivapal460/leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivapal460/leetcode_problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivapal460/leetcode_problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivapal460/leetcode_problem/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Shivapal460/leetcode_problem/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |

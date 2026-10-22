@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivapal460/leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Shivapal460/leetcode_problem/tree/master/0056-merge-intervals) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivapal460/leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Shivapal460/leetcode_problem/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shivapal460/leetcode_problem/tree/master/0347-top-k-frequent-elements) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Shivapal460/leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivapal460/leetcode_problem/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |

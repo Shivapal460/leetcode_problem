@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Shivapal460/leetcode_problem/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/Shivapal460/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shivapal460/leetcode_problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shivapal460/leetcode_problem/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Shivapal460/leetcode_problem/tree/master/0152-maximum-product-subarray) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivapal460/leetcode_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Shivapal460/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Shivapal460/leetcode_problem/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivapal460/leetcode_problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Shivapal460/leetcode_problem/tree/master/0633-sum-of-square-numbers) |
@@ -190,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Shivapal460/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivapal460/leetcode_problem/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

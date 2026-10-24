@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivapal460/leetcode_problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1512-number-of-good-pairs](https://github.com/Shivapal460/leetcode_problem/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Shivapal460/leetcode_problem/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Shivapal460/leetcode_problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivapal460/leetcode_problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivapal460/leetcode_problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Shivapal460/leetcode_problem/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shivapal460/leetcode_problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Shivapal460/leetcode_problem/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Shivapal460/leetcode_problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivapal460/leetcode_problem/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

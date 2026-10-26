@@ -201,4 +201,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/1901-find-a-peak-element-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shivapal460/leetcode_problem/tree/master/2965-find-missing-and-repeated-values) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->

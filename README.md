@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivapal460/leetcode_problem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivapal460/leetcode_problem/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivapal460/leetcode_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0503-next-greater-element-ii](https://github.com/Shivapal460/leetcode_problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Shivapal460/leetcode_problem/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Shivapal460/leetcode_problem/tree/master/0901-online-stock-span) |
@@ -204,16 +205,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivapal460/leetcode_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivapal460/leetcode_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivapal460/leetcode_problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shivapal460/leetcode_problem/tree/master/0110-balanced-binary-tree) |
 ## Breadth-First Search
